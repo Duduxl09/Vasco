@@ -1,0 +1,17 @@
+Body {
+	font-family: arial, helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+p{
+	color: rgb(78,230,30);
+	font-size: 25px;
+	text-align: center;
+	text-transform: capitalize;
+}
+h1{
+	text-shadow: 2px 2px 5px blue;
+	color:pink;
+	font-family: red serif, serif;
+}
+	
